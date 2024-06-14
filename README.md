@@ -1,3 +1,6 @@
+
+****This project has been folded into "TDL KAIZEN". Please see that page instead. 
+
 # BPER PDF Splitter
 
 ## Overview
